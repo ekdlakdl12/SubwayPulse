@@ -22,6 +22,11 @@
 3.Matplotlib  
 4.Seaborn  
 
+## 머신러닝 모델링  
+1.sklearn  
+2.statsmodels  
+3.prophet  
+
 ## 형상관리
 1.gitub
 
