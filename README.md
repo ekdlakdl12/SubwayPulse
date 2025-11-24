@@ -29,10 +29,6 @@
 ## 형상관리
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
 
-## 프로젝트 수행 절차  
-문제정의 --> 데이터수집 --> 전처리 --> 모델링/분석 --> 시각화 및 보고
-
-
 ## 🧩 프로젝트 수행 절차 (Process Flow)
 
 프로젝트는 데이터 과학의 표준 방법론에 따라 다음과 같은 **5단계**로 진행되었습니다.
