@@ -1,22 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subway%20Pulse&fontSize=90" />
-
-## 지하철 연간 이용 및 수요도 예측 시스템
-
-## 세부 주제 : 
-목적: 데이터 분석 기술 숙련, 데이터 분석 프로젝트 경험
-
-## 프로젝트 기간: 11/19(수) ~ 11/28(금) 8일
-프로젝트 계획서 보고: 11.20(목) 19:00  
-프로젝트 발표: 11.28(금) 18:00
-
-## 필수 제출 사항
-1.github 레포지토리  
-2.PPT 발표 자료  
-  
-<h1 align="center">🚇 Subway Finance Watch: 재정 적자 분석, 인상 예측 및 완화 전략</h1>
+<h1 align="center">🚇 Subway Pulse: 재정 적자 분석, 인상 예측 및 완화 전략</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Deficit%20Mitigation%20Strategy&fontSize=65&fontAlignY=40" alt="Deficit Mitigation Strategy Header">
-</p>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Subway%20Pulse&fontSize=70&fontAlignY=40" alt="Subway Pulse Header">
+</p>
+
+---
+
+## 📅 프로젝트 개요 및 일정
+
+본 프로젝트는 데이터 분석 기술 숙련 및 프로젝트 경험 축적을 목표로, 도시철도의 재정 문제 해결에 기여할 수 있는 실증적 데이터를 제공합니다.
+
+| 카테고리 | 내용 |
+| :--- | :--- |
+| **주요 목적** | 데이터 분석 기술 숙련, 데이터 분석 프로젝트 경험 |
+| **프로젝트 기간** | **11/19(수) ~ 11/28(금) (총 8일)** |
+| **계획서 보고** | 11.20(목) 19:00 |
+| **프로젝트 발표** | 11.28(금) 18:00 |
+| **필수 제출 사항** | 1. GitHub 레포지토리 / 2. PPT 발표 자료 |
+
+---
 
 ## 🚨 문제 정의 및 핵심 성과 하이라이트
 
@@ -24,7 +25,9 @@
 | :--- | :--- |
 | **도시철도 적자 심화**의 구조적 원인(고령화 및 복지 비용)을 정량적으로 분석하여 문제의 시급성 입증. | **모델 신뢰도 (R²):** **91.21%** 달성 (매우 우수) |
 | **요금 인상 시나리오**를 예측하고, 이를 바탕으로 **교통비 급증을 억제**할 수 있는 정책적 완화 방안 모색. | **평균 예측 오차 (MAE):** **25.00원** (실질적인 인상 예측 능력 확보) |
-| **무임승차 대상별 기여도** 분석을 통해 중앙정부 및 지자체 간의 합리적인 **재정 지원 및 적자 완화 정책** 제언. | **완화 전략 제시:** 예측 결과 기반의 **최적 무임승차 연령 상향 시점** 등 구체적인 방안 도출. |  
+| **무임승차 대상별 기여도** 분석을 통한 합리적인 재정 지원 방안 모색 기초 자료 제공. | **완화 전략 제시:** 예측 결과 기반의 **최적 무임승차 연령 상향 시점** 등 구체적인 방안 도출. |
+
+---
 
 ## 🧩 프로젝트 수행 절차 (Methodology)
 
@@ -45,7 +48,7 @@
 ### 5. 💡 시나리오 예측 및 완화 전략 제언 (Prediction & Mitigation Proposal)
 > 2026년~2035년 미래 요금 인상 시나리오를 제시하고, 분석된 적자 원인을 해소하기 위한 **구체적인 정책 완화 전략**을 보고서에 담아 제출.
 
-
+---
 
 ## 🛠️ 기술 스택 (Technical Stack)
 
@@ -66,5 +69,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-
-
+---
