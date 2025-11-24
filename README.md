@@ -11,86 +11,43 @@
 
 ## 필수 제출 사항
 1.github 레포지토리  
-2.PPT 발표 자료
-
-## 사용 기술
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-## 사용 라이브러리
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)    
-[![Seaborn](https://img.shields.io/badge/Seaborn-3E7199?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
-
-## 머신러닝 모델링  
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)  
-[![Statsmodels](https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)  
-[![Prophet](https://img.shields.io/badge/Prophet-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)  
-
-## 형상관리
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-
-## 🧩 프로젝트 수행 절차 (Process Flow)
-
-프로젝트는 데이터 과학의 표준 방법론에 따라 다음과 같은 **5단계**로 진행되었습니다.
-
-### 1. 🔍 문제 정의 (Problem Definition)
-> 지하철 요금 인상 요인 분석 및 미래 요금 예측이라는 핵심 목표와 검증 기준을 설정했습니다.
-
-### 2. 💾 데이터 수집 (Data Acquisition)
-> **지하철 요금 이력, CPI 상승률, 유/무임 승하차 인원** 등 분석에 필요한 모든 데이터를 확보했습니다.
-> 
-> *_(사용 도구: CSV 파일, 공공데이터 포털 등)_*
-
-### 3. 🧹 전처리 (Preprocessing)
-> 수집된 데이터의 결측치 및 이상치를 처리하고, **`Years_Since_Hike`**와 **`Cumulative_CPI`** 같은 모델의 설명력을 높이는 핵심 **특징 공학(Feature Engineering)**을 수행했습니다.
-
-### 4. 📉 모델링 및 분석 (Modeling & Analysis)
-> **Scikit-learn, Statsmodels, Prophet**을 활용하여 시계열 예측 모델을 구축했습니다. 홀드아웃 검증을 통해 **R² 0.9121**이라는 높은 신뢰도를 확보했습니다.
-
-### 5. 📈 시각화 및 보고 (Visualization & Reporting)
-> **Matplotlib/Seaborn**을 사용하여 예측 결과, 무임승차 비율 분석, 그리고 호선별 특징 등을 시각화하여 최종 보고서를 완성했습니다.  
-
-
-<h2 align="center">✨ 프로젝트 주요 성과 ✨</h2>
+2.PPT 발표 자료  
+  
+<h1 align="center">🚇 Subway Finance Watch: 재정 적자 분석, 인상 예측 및 완화 전략</h1>
 <p align="center">
-  저희 모델이 달성한 핵심 지표들을 확인하세요.
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Deficit%20Mitigation%20Strategy&fontSize=65&fontAlignY=40" alt="Deficit Mitigation Strategy Header">
+</p>  
 
-| 지표 | 결과 | 의미 |
-| :--- | :--- | :--- |
-| **모델 신뢰도 (R²)** | **91.21 %** | 지하철 요금 변동성 예측 설명력 |
-| **평균 예측 오차 (MAE)** | **25.00 원** | 실용적으로 '완전 정확' 수준의 오차율 |
-| **핵심 기여 특징** | `CPI` & `Years Since Hike` | 도메인 지식을 반영한 예측 정확도 향상 |
+## 🚨 문제 정의 및 핵심 성과 하이라이트
 
-<br>
----
+| 📉 분석 목표 (Problem Definition) | 📈 모델 성과 및 정책 제언 (Mitigation Focus) |
+| :--- | :--- |
+| **도시철도 적자 심화**의 구조적 원인(고령화 및 복지 비용)을 정량적으로 분석하여 문제의 시급성 입증. | **모델 신뢰도 (R²):** **91.21%** 달성 (매우 우수) |
+| **요금 인상 시나리오**를 예측하고, 이를 바탕으로 **교통비 급증을 억제**할 수 있는 정책적 완화 방안 모색. | **평균 예측 오차 (MAE):** **25.00원** (실질적인 인상 예측 능력 확보) |
+| **무임승차 대상별 기여도** 분석을 통해 중앙정부 및 지자체 간의 합리적인 **재정 지원 및 적자 완화 정책** 제언. | **완화 전략 제시:** 예측 결과 기반의 **최적 무임승차 연령 상향 시점** 등 구체적인 방안 도출. |  
 
-<h2 align="center">📄 프로젝트 개요 (Overview)</h2>
-<p align="center">
-  이 프로젝트의 목표와 배경을 간략히 설명합니다.
-</p>
+## 🧩 프로젝트 수행 절차 (Methodology)
 
-본 프로젝트는 **서울 지하철 요금**의 인상 패턴을 분석하고, **소비자 물가 지수(CPI) 및 인상 주기** 등의 경제/정책적 요인을 반영하여 **2026년 이후의 요금을 예측**하는 시계열 모델링을 목표로 했습니다. 또한, 공사의 재정 건전성 분석을 위해 **무임승차 비율의 상세 분석**을 포함합니다.
+프로젝트는 경제/정책적 분석과 고도화된 시계열 모델링을 통합하여 **문제 해결**에 중점을 두었습니다.
 
-<br>
----
+### 1. 🔍 문제 및 데이터 정의 (Problem & Data Definition)
+> 지하철 요금 인상 요인(재정 적자, CPI 등)과 무임승차 데이터를 중심으로 **적자 완화**를 위한 분석 목표 설정.
 
-<h2 align="center">💡 주요 분석 결과 및 인사이트</h2>
-<p align="center">
-  프로젝트를 통해 얻은 핵심적인 발견들입니다.
-</p>
+### 2. 💾 데이터 수집 및 특징 공학 (Acquisition & Feature Engineering)
+> 요금 이력, **CPI, 재정 적자 대리 변수**를 통합하고, **`Years_Since_Hike`** 등 예측 성능을 극대화할 특징을 생성.
 
-* **📈 요금 예측 결론:** 구축된 모델은 R² 0.9121의 신뢰도로 향후 10년간의 요금 인상 시점과 폭을 매우 정확하게 예측했습니다.
-* **👴 무임승차 비중:** 분석 결과, 무임승차 인원 중 **노인(65세 이상)이 약 85%**를 차지하며, 도시철도 재정 손실의 주된 요인임을 확인했습니다.
-* **🔍 특징의 중요성:** 요금 예측에 단순 시간보다 **누적된 CPI 상승 압력**과 **마지막 인상 후 경과 시간**이 결정적인 변수임을 증명했습니다.
+### 3. 🧹 데이터 전처리 및 분석 (Preprocessing & Analysis)
+> 데이터 정제 후, **무임승차 대상별 기여도**를 상세 분석하여 재정 손실의 주된 원인(노인 85%)을 명확히 파악.
 
-<br>
----
+### 4. 📉 모델링 및 검증 (Modeling & Validation)
+> **Scikit-learn, Prophet**을 활용한 시계열 회귀 모델 구축. **R² 0.9121** 신뢰도를 확보하여 예측 시나리오의 기반 마련.
 
-<h2 align="center">🛠️ 프로젝트 핵심 기술 스택</h2>
-<p align="center">
-  프로젝트에 사용된 주요 기술 및 라이브러리입니다.
-</p>
+### 5. 💡 시나리오 예측 및 완화 전략 제언 (Prediction & Mitigation Proposal)
+> 2026년~2035년 미래 요금 인상 시나리오를 제시하고, 분석된 적자 원인을 해소하기 위한 **구체적인 정책 완화 전략**을 보고서에 담아 제출.
+
+
+
+## 🛠️ 기술 스택 (Technical Stack)
 
 ### 💻 데이터 분석 및 모델링 환경
 
@@ -99,7 +56,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3E7199?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-### 🧠 머신러닝 및 통계 모델
+### 🧠 머신러닝 및 시계열 예측 모델
 
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)
@@ -109,12 +66,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-<br>
 
 
-
----
-
-### ➡️ 프로세스 흐름 요약
-
-> 🔍 문제 정의 &rarr; 💾 데이터 수집 &rarr; 🧹 전처리 &rarr; 📉 모델링/분석 &rarr; 📈 시각화 및 보고
