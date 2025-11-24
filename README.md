@@ -1,6 +1,6 @@
 <h1 align="center">🚇 Deficit Chronicle: 재정 적자 분석, 인상 예측 및 완화 전략</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Subway%20Pulse&fontSize=70&fontAlignY=40" alt="Subway Pulse Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Deficit%20Chronicle&fontSize=70&fontAlignY=40" alt="Subway Pulse Header">
 </p>
 
 ---
