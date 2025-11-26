@@ -72,4 +72,17 @@
 
 ### 💻 데이터 분석 및 모델링 환경
 
-[![Numpy](
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3E7199?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
+### 🧠 머신러닝 및 시계열 예측 모델
+
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)
+[![Prophet](https://img.shields.io/badge/Prophet-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)
+
+### 💾 버전 관리 (VCS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
