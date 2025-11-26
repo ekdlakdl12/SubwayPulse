@@ -1,7 +1,16 @@
 <h1 align="center">🚇 Deficit Chronicle: 재정 적자 분석, 인상 예측 및 완화 전략</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Deficit%20Chronicle&fontSize=70&fontAlignY=40" alt="Subway Pulse Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=300&section=header&text=Deficit%20Chronicle&fontSize=70&fontAlignY=40" alt="Subway Pulse Header">
 </p>
+
+---
+
+## 👤 프로젝트 팀원
+
+| 역할 | 이름 |
+| :--- | :--- |
+| **팀원** | 최준영 |
+| **팀원** | 곽태린 |
 
 ---
 
@@ -26,6 +35,15 @@
 | **도시철도 적자 심화**의 구조적 원인(고령화 및 복지 비용)을 정량적으로 분석하여 문제의 시급성 입증. | **모델 신뢰도 (R²):** **91.21%** 달성 (매우 우수) |
 | **요금 인상 시나리오**를 예측하고, 이를 바탕으로 **교통비 급증을 억제**할 수 있는 정책적 완화 방안 모색. | **평균 예측 오차 (MAE):** **25.00원** (실질적인 인상 예측 능력 확보) |
 | **무임승차 대상별 기여도** 분석을 통한 합리적인 재정 지원 방안 모색 기초 자료 제공. | **완화 전략 제시:** 예측 결과 기반의 **최적 무임승차 연령 상향 시점** 등 구체적인 방안 도출. |
+
+---
+
+## 🤝 업무 분담 (역할)
+
+| 이름 | 담당 업무 |
+| :--- | :--- |
+| **최준영** | |
+| **곽태린** | |
 
 ---
 
@@ -54,19 +72,4 @@
 
 ### 💻 데이터 분석 및 모델링 환경
 
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3E7199?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-
-### 🧠 머신러닝 및 시계열 예측 모델
-
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Statsmodels](https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)
-[![Prophet](https://img.shields.io/badge/Prophet-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)
-
-### 💾 버전 관리 (VCS)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-
+[![Numpy](
