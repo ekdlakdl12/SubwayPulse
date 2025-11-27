@@ -24,6 +24,7 @@
 * `free_Ride_Ratio.ipynb`
 * `front_Explamation.ipynb`
 * `design_Improvement.ipynb`
+* `깃허브 정리`
 
 ### 📁 곽태린 팀원 담당 업무
 * `2023~2025 무임승차 인원 변화.py`
@@ -31,6 +32,7 @@
 * `노인이 지하철을 이용하는 이유1.py`
 * `노인이 지하철을 이용하는 이유2.py`
 * `부분유임시 수입계산.py`
+* `PPT 작성`
 
 ---
 
