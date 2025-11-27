@@ -24,6 +24,8 @@
 * `free_Ride_Ratio.ipynb`
 * `front_Explamation.ipynb`
 * `design_Improvement.ipynb`
+* `Income_Age_Segmentation_Analysis.ipynb`
+* `Elderly_Policy_Mitigation_Analysis.ipynb`
 * `깃허브 정리`
 
 ### 📁 곽태린 팀원 담당 업무
