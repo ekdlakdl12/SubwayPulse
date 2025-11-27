@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=350&section=header&text=Deficit%20Chronicle&fontSize=80&fontColor=ffffff&fontAlign=center&desc=재정%20적자%20분석,%20인상%20예측%20및%20완화%20전략&descAlign=center&descPosition=70" alt="Deficit Chronicle Header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=350&section=header&text=Deficit%20Chronicle&fontSize=80&fontColor=ffffff&fontAlign=center&desc=노인%20무임승차로%20인한%20지하철%20재정%20적자%20분석%20및%20교통비%20인상%20완화%20방안&descAlign=center&descPosition=70" alt="Deficit Chronicle Header">
 </h1>
 <div align="center">
 
@@ -81,29 +81,29 @@
 ### 💻 데이터 분석 및 모델링 환경
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3E7199?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3E7199?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
 </div>
 
 ### 🧠 머신러닝 및 시계열 예측 모델
 
 <div align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels"/>
-  <img src="https://img.shields.io/badge/Prophet-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Statsmodels-1A1A1A?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels"/>
+  <img src="https://img.shields.io/badge/Prophet-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/>
 </div>
 
 ### 💾 버전 관리 (VCS)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ---
 
 <h2 align="center">🔗 Conclusion: 지속 가능한 도시철도 재정을 위하여</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Visit%20Our%20Repository-View%20Source%20Code-007ACC?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Visit%20Our%20Repository-View%20Source%20Code-007ACC?style=for-the-badge&logo=github&logoColor=white">
 </div>
