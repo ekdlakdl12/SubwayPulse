@@ -9,8 +9,16 @@
 
 | 이름 | 역할 | 담당 업무 |
 | :--- | :--- | :--- |
-| **최준영** | 팀원 | (내용 채우기) |
-| **곽태린** | 팀원 | (내용 채우기) |
+| **최준영** | 팀원 | cost_increase_Model2.ipynb 
+cost_of_Free_Ride_Loss.ipynb 
+free_Ride_Ratio.ipynb 
+front_Explamation.ipynb 
+design_Improvement.ipynb |
+| **곽태린** | 팀원 | 2023~2025 무임승차 인원 변화.py 
+나이 상향 시뮬레이션.py 
+노인이 지하철을 이용하는 이유1.py 
+노인이 지하철을 이용하는 이유2.py 
+부분유임시 수입계산.py |
 
 ---
 
