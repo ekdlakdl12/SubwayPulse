@@ -11,13 +11,31 @@
 
 ---
 
-## 👤 핵심 프로젝트 팀 (Team & Role)
+<h2 style="border-bottom: 2px solid #3776AB; padding-bottom: 5px;">👤 핵심 프로젝트 팀 (Team & Role)</h2>
 
-| 이름 | 역할 | 담당 업무 파일 목록 |
-| :---: | :---: | :left |
-| **최준영** | 🧑‍💻 **팀원** | `cost_increase_Model2.ipynb`, `cost_of_Free_Ride_Loss.ipynb`, `free_Ride_Ratio.ipynb`, `front_Explamation.ipynb`, `design_Improvement.ipynb` |
-| **곽태린** | 🧑‍💻 **팀원** | `2023~2025 무임승차 인원 변화.py`, `나이 상향 시뮬레이션.py`, `노인이 지하철을 이용하는 이유1.py`, `노인이 지하철을 이용하는 이유2.py`, `부분유임시 수입계산.py` |
+| 이름 | 역할 |
+| :---: | :---: |
+| **최준영** | 🧑‍💻 **팀원** |
+| **곽태린** | 🧑‍💻 **팀원** |
 
+### 📁 최준영 팀원 담당 업무
+* `cost_increase_Model2.ipynb`
+* `cost_of_Free_Ride_Loss.ipynb`
+* `free_Ride_Ratio.ipynb`
+* `front_Explamation.ipynb`
+* `design_Improvement.ipynb`
+
+### 📁 곽태린 팀원 담당 업무
+* `2023~2025 무임승차 인원 변화.py`
+* `나이 상향 시뮬레이션.py`
+* `노인이 지하철을 이용하는 이유1.py`
+* `노인이 지하철을 이용하는 이유2.py`
+* `부분유임시 수입계산.py`
+
+---
+
+## 📅 프로젝트 개요 및 일정 (Overview)
+... (이하 내용은 그대로 사용하시면 됩니다)
 ---
 
 ## 📅 프로젝트 개요 및 일정 (Overview)
