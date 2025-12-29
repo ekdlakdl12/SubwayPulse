@@ -111,7 +111,3 @@
 
 * **[프레젠테이션 파일 다운로드 (프로젝트.pptx)](docs/프로젝트.pptx)**
 
-<h2 align="center">🔗 Conclusion: 지속 가능한 도시철도 재정을 위하여</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Visit%20Our%20Repository-View%20Source%20Code-007ACC?style=for-the-badge&logo=github&logoColor=white">
-</div>
